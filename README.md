@@ -1,1 +1,2 @@
 # battleship
+ this is readme
